@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'PermamentMarker';
+    src: url(../fonts/PermanentMarker-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'RedHatDisplay';
+    src: url(../fonts/RedHatDisplay-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-brands-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-duotone-900.woff2);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-light-300.woff2);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-regular-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-solid-900.woff2);
+    font-weight: 900;
+}
+
+
+.fab {
+    font-family: 'FontAwesome';
+    font-weight: 400;
+}
+
+.fad {
+    font-family: 'FontAwesome';
+    font-weight: 900;
+}
+
+.fal {
+    font-family: 'FontAwesome';
+    font-weight: 300;
+}
+
+.far {
+    font-family: 'FontAwesome';
+    font-weight: 400;
+}
+
+.fas {
+    font-family: 'FontAwesome';
+    font-weight: 900;
+}
